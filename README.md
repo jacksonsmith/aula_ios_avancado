@@ -4,4 +4,6 @@
 
 
 1. ***Aula 02*** [Memory](https://github.com/jacksonsmith/aula_ios_avancado_02).
-1. ***Exercício*** [Arquiteture & Requests](https://github.com/jacksonsmith/aula_ios_avancado_exercicio).
+1. ***Exercício*** [Arquiteture MVVM](https://github.com/jacksonsmith/aula_ios_avancado_exercicio_mvvm).
+2. 1. ***Exercício*** [Arquiteture MVP](3. https://github.com/jacksonsmith/aula_ios_avancado_exercicio_mvp).
+
